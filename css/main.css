@@ -32,7 +32,7 @@ header {
   grid-template-areas:
     "left center right"
     ".    center    .";
-    margin-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 header h1 {
@@ -113,9 +113,9 @@ section ul li {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-areas:
-  "top"
-  "middle"
-  "bottom";
+    "top"
+    "middle"
+    "bottom";
 }
 
 section h3 {
